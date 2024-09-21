@@ -626,7 +626,7 @@ html{
     color: var(--main-color);
     font-size: 1rem;
 }
-.footer .credit p span{
+.footer .credit p span a{
     color: var(--main-color);
     font-weight: 500;
     text-decoration: underline;
